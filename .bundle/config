@@ -1,0 +1,3 @@
+---
+BUNDLE_PATH: "vender/cache"
+BUNDLE_CACHE_ALL: "false"
