@@ -1,3 +1,2 @@
 ---
-BUNDLE_PATH: "vender/cache"
-BUNDLE_CACHE_ALL: "false"
+BUNDLE_PATH: "_vendor"
